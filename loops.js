@@ -23,5 +23,8 @@ function incrementVariable(array) {
   i=i+1;
   
   do{ 
-    console.log()
+    array.length > 0 && incrementVariable(array);
+    while (i<5);
+}
+return array;
 }

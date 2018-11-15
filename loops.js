@@ -1,7 +1,10 @@
-function forLoop(){
-  for (let i = 0; i<25; i++){
-    if i=0{("I am ${i} strange loop");
-  
-  
+function makeArray() {
+  const array = []
+  const t = 25
+
+  for (let i = 0; i < t; i++) {
+    array.push("I am a strange loop.")
   }
+
+  return [array, t]
 }

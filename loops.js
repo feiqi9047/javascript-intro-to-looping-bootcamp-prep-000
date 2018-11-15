@@ -19,7 +19,7 @@ function whileLoop(n){
   return "done";
 }
 
-function doWhileLoop (){
+function doWhileLoop (array){
   function incrementVariable(array) {
   i=i+1;
   

@@ -19,4 +19,9 @@ function whileLoop(n){
   return "done";
 }
 
-function 
+function incrementVariable(array) {
+  i=i+1;
+  
+  do{ 
+    console.log()
+}

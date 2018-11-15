@@ -20,8 +20,8 @@ function whileLoop(n){
 }
 
 function doWhileLoop (array){
-  function maybeTrue() {
-  i=i+1;
+  function incrementVariable() {
+  i=i+1}
   
   do{ 
     array.length > 0 && incrementVariable(array);

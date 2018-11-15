@@ -15,5 +15,5 @@ function whileLoop(n){
   while (let countdown >0){
     console.log (--countdown);
   }
-  return "done"
+  return "done";
 }

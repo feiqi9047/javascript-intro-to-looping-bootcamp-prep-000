@@ -20,7 +20,7 @@ function whileLoop(n){
 }
 
 function doWhileLoop (array){
-  function maybeTrue(array) {
+  function maybeTrue() {
   i=i+1;
   
   do{ 

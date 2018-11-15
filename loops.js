@@ -21,8 +21,8 @@ function whileLoop(n){
 
 function doWhileLoop (array){
   function incrementVariable() {
-     return Math.random() >= 0.5;
-  i=i+1}
+     return Math.random() >= 0.5
+}
   
   do{ 
     array.pop();
